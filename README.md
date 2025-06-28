@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhixarvar
 - 👀 I’m interested in Game Developement
 - 🌱 I’m currently learning Unreal Engine 
-- ⚡ Fun fact: no coding experience other than HTML...
+
 
 <!---
 Abhixarvar/Abhixarvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
