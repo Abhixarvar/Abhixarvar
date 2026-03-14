@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhixarvar
 - 👀 I’m interested in Game Developement
-- 🌱 I’m currently learning Unreal Engine 
+- 🌱 I’m currently doing BCA in Artificial Intelligence from JIMS,Rohini
 
 
 <!---
